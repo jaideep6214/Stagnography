@@ -1,3 +1,4 @@
 # Stagnography
 
 ## Image 
+## Video
